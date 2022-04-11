@@ -1,0 +1,8 @@
+1. Material UI
+
+npm i @material-ui/core
+
+2. React flip move (Animation)
+
+https://github.com/joshwcomeau/react-flip-move
+
